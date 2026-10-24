@@ -1,0 +1,6 @@
+{
+  "name": "Horti Waste",
+  "description": "Fatima Fertilizer Colony horticulture garbage segregation tracking app for collection workers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

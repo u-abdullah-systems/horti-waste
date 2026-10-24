@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800815212433",
+    "project_id": "fatima-horti-waste",
+    "storage_bucket": "fatima-horti-waste.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800815212433:android:f9a1ddf6e2dd609c93dc30",
+        "android_client_info": {
+          "package_name": "com.fatima.wastelog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOPs7Wdc_uDPG_MOZzJFMPSFO3z0t-Q8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
